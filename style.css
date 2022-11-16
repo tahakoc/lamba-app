@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    justify-content: center;
+}
+a{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px;
+    margin: 10px;
+}
+img{
+    margin: 25px;
+}
