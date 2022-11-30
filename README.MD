@@ -1,6 +1,2 @@
-### **project picture:**
-
-![project picture](/lamba.png)
-
-#DEMO#
+### **project DEMO:**
 https://lamb-com.netlify.app/
